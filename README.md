@@ -1,3 +1,7 @@
+# NO LONGER MAINTAINED
+
+Use [pnpm/action-setup](https://github.com/pnpm/action-setup) instead.
+
 # Setup PNPM
 
 Install PNPM package manager.
